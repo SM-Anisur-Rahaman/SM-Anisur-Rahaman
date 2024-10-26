@@ -3,7 +3,7 @@
 # Hi there 👋 SM Anisur Rhaman💻🧑‍💻🖥️⌨️🖱️🩸
 ## I'm a Anti-Israel patriotic Razakar.
 
-<pre style="font-size: 25">Assalamualaikum everyone.
+<pre>Assalamualaikum everyone.
 I'm a student of computer science and technology.
 I'm a volunteer of Bangladesh rover scouts.
 I'm Ex cadet of Bangladesh Air Scouts (BAS).</pre>
