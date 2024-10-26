@@ -8,7 +8,10 @@ I'm a student of computer science and technology.
 I'm a volunteer of Bangladesh rover scouts.
 I'm Ex cadet of Bangladesh Air Scouts (BAS).</pre>
 
-Skills: HTML / CSS / Python
+Skills: HTML / CSS / Python 
+![UwuCatGIF](https://github.com/user-attachments/assets/87762843-b4a2-4c09-9a4c-b661607357a1)
+
+
 
 - 🔭 I’m currently working on Debating club ♧  
 - 🌱 I’m currently learning Python, IELTS..... 
