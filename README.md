@@ -1,4 +1,4 @@
-![I'm a Anti-Israel patriotic Razakar.](https://scontent.fdac174-1.fna.fbcdn.net/v/t39.30808-6/451863892_361853826947907_4050785972275448610_n.png?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=oML0CNErWLEQ7kNvgEoG2T8&_nc_zt=23&_nc_ht=scontent.fdac174-1.fna&_nc_gid=AFfDEvbd6SnyMfWC1oDSmY1&oh=00_AYATbMqH796OBQU4Rgtl3ls1cNP6YSrhwpyQQ-mIf-TH3Q&oe=6721AA18)
+
 
 # Hi there 👋 SM Anisur Rhaman💻🧑‍💻🖥️⌨️🖱️🩸
 ## I'm a Anti-Israel patriotic Razakar.
