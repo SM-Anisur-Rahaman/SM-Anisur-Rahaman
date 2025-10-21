@@ -9,9 +9,7 @@ I'm Ex cadet of Bangladesh NCC (BMA, BAF).</pre>
 
 Skills: HTML / CSS / Python
 
-- 🔭 I’m currently working on Debating club ♧  
 - 🌱 I’m currently learning Python, IELTS..... 
-- 👯 I’m looking to collaborate on Red Crescent Society (BDRCS) 
 - 🤔 I’m looking for help with Web developer's, Programmer's. 
 - 💬 Ask me about Good student. 
 - 😄 Pronouns: Pirate Commander, Solution boy, Captain. 
