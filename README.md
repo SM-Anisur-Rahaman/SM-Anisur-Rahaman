@@ -5,8 +5,7 @@
 
 <pre>Assalamualaikum everyone.
 I'm a student of computer science and technology.
-I'm a volunteer of Bangladesh rover scouts.
-I'm Ex cadet of Bangladesh Air Scouts (BAS).</pre>
+I'm Ex cadet of Bangladesh NCC (BMA, BAF).</pre>
 
 Skills: HTML / CSS / Python
 
