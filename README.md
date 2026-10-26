@@ -7,7 +7,7 @@
 I'm a student of computer science and technology.
 I'm Ex cadet of Bangladesh NCC (BMA, BAF).</pre>
 
-Skills: HTML / CSS / Python
+Skills: HTML / CSS / JS / JAVA / PYTHON
 
 - 🌱 I’m currently learning Python, IELTS..... 
 - 🤔 I’m looking for help with Web developer's, Programmer's. 
